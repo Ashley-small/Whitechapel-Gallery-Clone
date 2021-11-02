@@ -368,7 +368,10 @@ padding: 10px 0;
 }.subscribe-section input{
   width: 100%;
   height: 30px;
-}
+}.Follow-section i{
+  width:20px;
+  
+  }
 
 .nav-list li{
   margin: 0;
