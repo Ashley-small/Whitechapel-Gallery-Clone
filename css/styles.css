@@ -383,5 +383,7 @@ padding: 10px 0;
   display: none;
 }
 }.nav-list.active{
-  display: block;}
+  display: block;
+}  margin-right: 1em;
+}
 }
